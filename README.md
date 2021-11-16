@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fadonic
+- 👋 Hi, I’m Friday
 - 👀 I’m interested in problem solving solving using technology stack of the art
 - 🌱 I’m currently learning docker, kubernatics and jenkins
 - 💞️ I’m looking to collaborate on any interesting and challenging problem
