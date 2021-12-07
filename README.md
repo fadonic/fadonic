@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Friday
 - 👀 I’m interested in problem solving using MERN Stack, Java and Php
-- 🌱 I’m currently learning docker, kubernatics and jenkins
+- 🌱 I’m currently learning kubernatics
 - 💞️ I’m looking to collaborate on any interesting and challenging problem
 - 📫 How to reach me fridayameh85@gmail.com
 
