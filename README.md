@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Friday
-- 👀 I’m interested in problem solving using Javascript, Java and Php
+- 👀 I’m interested in problem-solving using Javascript, React, nextJs, Java, spring-boot, and Php
 - 💞️ I’m looking to collaborate on any interesting and challenging problem
 - 📫 How to reach me fridayameh85@gmail.com
 
